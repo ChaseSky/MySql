@@ -18,4 +18,5 @@
     <string name="register_button">注册</string>
     <string name="user_list_str">用户列表</string>
     <string name="load_str">请稍后</string>
+    <string name="mgrInfoBtn">管理员信息</string>
 </resources>
