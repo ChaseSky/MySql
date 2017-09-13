@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MySql</string>
+    <string name="login_send">登录</string>
+    <string name="login_et_name">用户名或id</string>
+    <string name="register_user"><u>用户注册</u></string>
+    <string name="register_title"><b>用户注册</b></string>
+    <string name="back">返回</string>
+    <string name="user_id_text">"用户id:"</string>
+    <string name="user_name_text">"用户名:"</string>
+    <string name="user_pwd_text">"密码:"</string>
+    <string name="user_exp_text">"备注:"</string>
+    <string name="referral_code">"推荐码:"</string>
+    <string name="required">必填</string>
+    <string name="re_et_id">5位数字</string>
+    <string name="re_et_name">英文加数字</string>
+    <string name="re_et_pwd">最多12位</string>
+    <string name="re_et_exp">备注信息（可空）</string>
+    <string name="register_button">注册</string>
+    <string name="user_list_str">用户列表</string>
+    <string name="load_str">请稍后</string>
+</resources>
